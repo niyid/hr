@@ -13,8 +13,8 @@
 | <img src="https://avatars.githubusercontent.com/u/5315285?v=4" width="32"/> | [sebalix](https://github.com/sebalix) |
 | <img src="https://avatars.githubusercontent.com/u/197609?v=4" width="32"/> | [yoyo2k](https://github.com/yoyo2k) |
 | <img src="https://avatars.githubusercontent.com/u/1013356?v=4" width="32"/> | [bwrsandman](https://github.com/bwrsandman) |
-| <img src="https://avatars.githubusercontent.com/u/2032807?v=4" width="32"/> | [gurneyalex](https://github.com/gurneyalex) |
 | <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
+| <img src="https://avatars.githubusercontent.com/u/2032807?v=4" width="32"/> | [gurneyalex](https://github.com/gurneyalex) |
 | <img src="https://avatars.githubusercontent.com/u/692075?v=4" width="32"/> | [sbidoul](https://github.com/sbidoul) |
 | <img src="https://avatars.githubusercontent.com/u/4158438?v=4" width="32"/> | [yvaucher](https://github.com/yvaucher) |
 | <img src="https://avatars.githubusercontent.com/u/8202244?v=4" width="32"/> | [ntodorova](https://github.com/ntodorova) |
@@ -33,5 +33,6 @@
 | <img src="https://avatars.githubusercontent.com/u/1657112?v=4" width="32"/> | [acysos](https://github.com/acysos) |
 | <img src="https://avatars.githubusercontent.com/u/7683926?v=4" width="32"/> | [JordiBForgeFlow](https://github.com/JordiBForgeFlow) |
 <!-- CONTRIBUTORS END -->
+
 
 
