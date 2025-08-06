@@ -7,8 +7,8 @@
 | <img src="https://avatars.githubusercontent.com/u/7165771?v=4" width="32"/> | [pedrobaeza](https://github.com/pedrobaeza) |
 | <img src="https://avatars.githubusercontent.com/u/10069797?v=4" width="32"/> | [oca-transbot](https://github.com/oca-transbot) |
 | <img src="https://avatars.githubusercontent.com/u/1246629?v=4" width="32"/> | [dreispt](https://github.com/dreispt) |
-| <img src="https://avatars.githubusercontent.com/u/8723280?v=4" width="32"/> | [OCA-git-bot](https://github.com/OCA-git-bot) |
 | <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
+| <img src="https://avatars.githubusercontent.com/u/8723280?v=4" width="32"/> | [OCA-git-bot](https://github.com/OCA-git-bot) |
 | <img src="https://avatars.githubusercontent.com/u/2563186?v=4" width="32"/> | [hbrunn](https://github.com/hbrunn) |
 | <img src="https://avatars.githubusercontent.com/u/5315285?v=4" width="32"/> | [sebalix](https://github.com/sebalix) |
 | <img src="https://avatars.githubusercontent.com/u/197609?v=4" width="32"/> | [yoyo2k](https://github.com/yoyo2k) |
@@ -32,6 +32,7 @@
 | <img src="https://avatars.githubusercontent.com/u/1657112?v=4" width="32"/> | [acysos](https://github.com/acysos) |
 | <img src="https://avatars.githubusercontent.com/u/7683926?v=4" width="32"/> | [JordiBForgeFlow](https://github.com/JordiBForgeFlow) |
 <!-- CONTRIBUTORS END -->
+
 
 
 
