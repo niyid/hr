@@ -20,7 +20,6 @@
 | <img src="https://avatars.githubusercontent.com/u/2057234?v=4" width="32"/> | [saltonmassally](https://github.com/saltonmassally) |
 | <img src="https://avatars.githubusercontent.com/u/7593970?v=4" width="32"/> | [ehdem](https://github.com/ehdem) |
 | <img src="https://avatars.githubusercontent.com/u/1033131?v=4" width="32"/> | [eLBati](https://github.com/eLBati) |
-| <img src="https://avatars.githubusercontent.com/u/417223?v=4" width="32"/> | [guewen](https://github.com/guewen) |
 | <img src="https://avatars.githubusercontent.com/u/6644187?v=4" width="32"/> | [moylop260](https://github.com/moylop260) |
 | <img src="https://avatars.githubusercontent.com/u/7600613?v=4" width="32"/> | [elicoidal](https://github.com/elicoidal) |
 | <img src="https://avatars.githubusercontent.com/u/8102312?v=4" width="32"/> | [damdam-s](https://github.com/damdam-s) |
@@ -28,10 +27,12 @@
 | <img src="https://avatars.githubusercontent.com/u/7825427?v=4" width="32"/> | [rschnapka](https://github.com/rschnapka) |
 | <img src="https://avatars.githubusercontent.com/u/355215?v=4" width="32"/> | [vrenaville](https://github.com/vrenaville) |
 | <img src="https://avatars.githubusercontent.com/u/568585?v=4" width="32"/> | [Endika](https://github.com/Endika) |
+| <img src="https://avatars.githubusercontent.com/u/417223?v=4" width="32"/> | [guewen](https://github.com/guewen) |
 | <img src="https://avatars.githubusercontent.com/u/151794?v=4" width="32"/> | [jgrandguillaume](https://github.com/jgrandguillaume) |
 | <img src="https://avatars.githubusercontent.com/u/1657112?v=4" width="32"/> | [acysos](https://github.com/acysos) |
 | <img src="https://avatars.githubusercontent.com/u/7683926?v=4" width="32"/> | [JordiBForgeFlow](https://github.com/JordiBForgeFlow) |
 <!-- CONTRIBUTORS END -->
+
 
 
 
